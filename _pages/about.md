@@ -3,8 +3,8 @@ permalink: /
 title: "Sara Muneeb"
 author_profile: true
 redirect_from:
-/about/
-/about.html
+  - /about/
+  - /about.html
 ---
 I am a PhD candidate at the Centre for Robotics, Queensland University of Technology (QUT), Brisbane, Australia. My research focuses on assistive technology frameworks for workers with intellectual disabilities, investigating how assistive and emerging technologies can be designed to enhance worker autonomy in professional workplace settings while reducing the workload on support providers.
 I hold an MPhil in User Experience / Computer Science from QUT, and have over a decade of combined experience in UX research, human-computer interaction, and university teaching.
