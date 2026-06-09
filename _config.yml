@@ -24,7 +24,7 @@ author:
   # Academic websites
   academia         :
   arxiv            :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=XT2uyToAAAAJ&hl=en"
   inspire-hep      :
   impactstory      :
   orcid            :
@@ -54,7 +54,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "sara-muneeb"
+  linkedin         : "saramuneeb"
   mastodon         :
   medium           :
   pinterest        :
@@ -125,7 +125,7 @@ social:
   type                   : Person
   name                   : Sara Muneeb
   links:
-    - "https://www.linkedin.com/in/sara-muneeb"
+    - "https://www.linkedin.com/in/saramuneeb"
     - "https://github.com/saramuneeb"
 
 # Analytics
